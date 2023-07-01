@@ -1,16 +1,21 @@
-# provider_state_management
+Difference between stateful & stateless widgets
 
-A new Flutter project.
+Why you need to learn state management with example
 
-## Getting Started
+What is a provider, how does a provider work, and why are we learning provider state management? What is change notifier, multi-change notifier, and consumer widget
 
-This project is a starting point for a Flutter application.
+Example one, count and periodic timer example with set state and provider.
 
-A few resources to get you started if this is your first Flutter project:
+Example two practice apps to understand provider state management a bit more in detail.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Example three to make a simple app where we will list the product in a list and then make them favourite. After that we will display a list of favourite products that are marked as favourites from the list.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Example 4 theme changer app with provider
+
+Example 5 Login API with provider
+
+Example 6 how to use stateless widget as stateful widget.
+
+Will cover up what we have learned and what we will do after that.
+
+Complete app with provider using MVVM architecture with rest APIs.
